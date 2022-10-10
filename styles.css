@@ -1,0 +1,28 @@
+* {
+    color:#024002;
+    background-color: #048004;
+    text-emphasis-color: black;
+}
+
+span1 {
+    height: 60px;
+    width: 60px;
+    background-image: url(https://cdn130.picsart.com/289412804096201.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border:groove black 20px;
+}
+
+span2 img {
+    border:groove #024002 20px;
+}
+
+#bg-text {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: -1;
+    color: #B30059;
+    font-weight: #FF0883;
+}
+
